@@ -7,3 +7,5 @@ This is the multiple contribs edit line
 >;L
 
 editing some more chaningJack
+
+This is some new text again
